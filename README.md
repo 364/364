@@ -5,7 +5,7 @@
   <br>
   <br>
   <p>Hi there, I'm 364🖐️</p>
-  <p>Fe Developer, In ShenZhen, China</p>
+  <p>Front-end developer, In ShenZhen, China</p>
 
   <p>(Too plain, There is little to show)<br>
 
